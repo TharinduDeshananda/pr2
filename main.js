@@ -1,0 +1,1 @@
+SVGSymbolElement.log('hello World!!!');
