@@ -1,1 +1,1 @@
-SVGSymbolElement.log('hello World!!!');
+console.log('hello World!!!');
